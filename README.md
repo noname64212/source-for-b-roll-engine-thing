@@ -1,0 +1,1 @@
+this like uses a jp version of the game so some code is not compatible with "US"
